@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+langchain
+pydantic
+python-multipart
+chromadb
+sentence-transformers
+PyMuPDF
+docx2txt
+faiss-cpu
+python-dotenv
+google-generativeai
+pymongo
+dnspython 
